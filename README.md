@@ -7,7 +7,7 @@ For example, `merge-sorted-array.py`'s solution is at `https://leetcode.com/prob
 
 2. I really take time tried to make the best solution and collect the best resource that I found.  
 Because I wanted to help others like me.  
-Please [BUY ME A COFFEE](https://www.buymeacoffee.com/chriswu) if you want to show support.
+Please [BUY ME A COFFEE](https://www.buymeacoffee.com/sailikhithk) if you want to show support.
 
 
 # Leetcode Problem Lists
